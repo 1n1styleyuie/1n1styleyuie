@@ -2,7 +2,7 @@
 
 ![이미지](image/screenshot.jpg)
 
-~~**하루하루 잘 보냈다라고 스스로 생각하면 침대에 저 모습으로 있곤 합니다.**~~
+
 
 
 **Graduate : Electronic Engineering (Network Engineering)** <br>
