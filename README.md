@@ -7,8 +7,9 @@
 
 **Graduate : Electronic Engineering (Network Engineering)** <br>
 
-#### Algorithm Study Github
-https://github.com/papillonthor/Cool_Hot_ALGO 
+### Study Github
+- Algorithm : https://github.com/papillonthor/Cool_Hot_ALGO 
+- CS : https://github.com/strongest-study-in-the-earth/cs2023 
 
 
 
